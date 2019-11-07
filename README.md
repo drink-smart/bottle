@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="bottle.png">
+  <img src="ds.png">
 </p>
 
-# DrinkSmart - The Bottle
+# The Bottle
 
 This repo contains the sketch that is deployed to each of the smart bottles.
